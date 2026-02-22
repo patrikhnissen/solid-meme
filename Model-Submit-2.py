@@ -23,7 +23,7 @@ ID_COL = "id"
 
 HOLDOUT_DAYS = 90
 CV_SPLITS = 3
-TAU_HOURS = 96
+TAU_HOURS = 168
 RANDOM_STATE = 42
 
 # =========================================================
